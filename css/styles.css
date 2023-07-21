@@ -7016,22 +7016,16 @@ textarea.form-control-lg {
   display: block !important;
 }
 
-.d-grid {
-  display: grid !important;
-  column-gap: 10px;
-  row-gap: 15px;
 
-}
 
 section img{
-  width: 400px;
-  height: 340px;
-  display: block;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
   margin: auto;
   margin-top: 6px;
 
 }
-
 
 
 .d-table {
